@@ -5,7 +5,9 @@
   <br>
   Hey there 👋! I'm Chaeyeon Shim, a Data Scientist & Data Analyst with a master's degree in AI and data analytics. 
   <br>
-  I dive deep into the world of data science, uncovering insights, and crafting solutions. From unraveling complex datasets to building powerful predictive models, I thrive on turning data into actionable intelligence. Let's embark on a journey to decode the language of data together!🚀
+  I dive deep into the world of data science, uncovering insights, and crafting solutions. From unraveling complex datasets to building powerful predictive models, I thrive on turning data into actionable intelligence. 
+<br>
+Let's embark on a journey to decode the language of data together!🚀
 
 </div>
 
