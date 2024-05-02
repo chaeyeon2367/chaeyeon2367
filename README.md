@@ -3,7 +3,7 @@
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=venom&color=6FC7E1&height=300&section=header&text=Chaeyeon's%20Github!&fontSize=90" />	
   <br>
-  Hey there 👋! I'm Chaeyeon Shim, a Data Scientist & Data Analys with a master's degree in AI and data analytics. 
+  Hey there 👋! I'm Chaeyeon Shim, a Data Scientist & Data Analyst with a master's degree in AI and data analytics. 
   <br>
   I dive deep into the world of data science, uncovering insights, and crafting solutions. From unraveling complex datasets to building powerful predictive models, I thrive on turning data into actionable intelligence. Let's embark on a journey to decode the language of data together!🚀
 
