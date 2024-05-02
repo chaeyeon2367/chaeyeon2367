@@ -51,7 +51,7 @@
 <div align=center>
 	<img src="https://img.shields.io/badge/Pycharm-000000?style=flat&logo=Pycharm&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon Sagemaker-FF9900?style=flat&logo=Amazon EC2&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS Sagemaker-FF9900?style=flat&logo=Amazon EC2&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/Google%20Cloud%20Composer-4285F4?style=flat&logo=Google Cloud Composer&logoColor=white" />
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
