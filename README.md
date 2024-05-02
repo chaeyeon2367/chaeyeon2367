@@ -12,6 +12,25 @@
 <br>
 
 <br>
+<div align=center>
+	<p>🎨 SNS & Portfolio 🎨</p>
+</div>
+<div align=center>
+	<a href="https://www.linkedin.com/in/chaeyeonshim0930">
+		<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white" />
+	</a>
+	<a href="mailto:chaeyeon2367@gmail.com">
+		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
+	</a>
+	<a href="https://www.instagram.com/chaeyeon__0930">
+		<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
+	</a>
+	<br>
+</div>
+
+<br>
+
+<br>
 
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
@@ -74,24 +93,21 @@
 </div>
 <br>
 
+
 <br>
+
+<br>
+
+<br>
+
 <div align=center>
-	<p>🎨 SNS & Portfolio 🎨</p>
-</div>
-<div align=center>
-	<a href="https://www.linkedin.com/in/chaeyeonshim0930">
-		<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white" />
-	</a>
-	<a href="mailto:chaeyeon2367@gmail.com">
-		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
-	</a>
-	<br>
+	<img src="https://github-readme-stats.vercel.app/api?username=chaeyeon2367&show_icons=true">
+
 </div>
 
-
-
-
-
+<br>
+<br>
+<br>
 <!--
 **chaeyeon2367/chaeyeon2367** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
