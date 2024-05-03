@@ -53,13 +53,14 @@ Let's embark on a journey to decode the language of data together!🚀
 <div align=center>
 	<img src="https://img.shields.io/badge/Pycharm-000000?style=flat&logo=Pycharm&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS Sagemaker-FF9900?style=flat&logo=Amazon EC2&logoColor=white" />
+	<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white" />
+  	<img src="https://img.shields.io/badge/AWS Sagemaker-FF9900?style=flat&logo=Amazon EC2&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/Google%20Cloud%20Composer-4285F4?style=flat&logo=Google Cloud Composer&logoColor=white" />
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft Excel-217346?style=flat&logo=MicrosoftExcel&logoColor=white" />
+  	<img src="https://img.shields.io/badge/Microsoft Excel-217346?style=flat&logo=MicrosoftExcel&logoColor=white" />
 	<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=GNU Bash&logoColor=white" />
+  	<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=GNU Bash&logoColor=white" />
 </div>
 <br>
 <div align=center>
@@ -68,7 +69,7 @@ Let's embark on a journey to decode the language of data together!🚀
 <div align=center>
 	<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=Power BI&logoColor=white" />
 	<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=Plotly&logoColor=white" />
-	<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white" />
+	<img src="https://img.shields.io/badge/Matplotlib-19E57F?style=flat&logo=Matillion&logoColor=white">
 </div>
 <br>
 <div align=center>
@@ -94,7 +95,19 @@ Let's embark on a journey to decode the language of data together!🚀
   <img src="https://img.shields.io/badge/Shell-FFD500?style=flat&logo=Shell&logoColor=white" />
 </div>
 <br>
-
+<div align=center>
+	<p>📍Certifications📍</p>
+</div>
+<div align=center>
+	<img src="https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=Udemy&logoColor=white"/> Certification in Developing LLM-Powered Applications with Lang Chain
+	<br>
+	<img src="https://img.shields.io/badge/IBM-052FAD?style=flat&logo=IBM&logoColor=white" /> IBM Data Engineering Professional Certificate
+	<br>
+	<img src="https://img.shields.io/badge/Microsoft-5E5E5E?style=flat&logo=Microsoft&logoColor=white" /> Microsoft Power BI Data Analyst Professional Certificate
+	<br>
+  	<img src="https://img.shields.io/badge/Microsoft-5E5E5E?style=flat&logo=Microsoft&logoColor=white" /> Microsoft certified Data Analysis with Microsoft Excel
+</div>
+<br>
 
 <br>
 
