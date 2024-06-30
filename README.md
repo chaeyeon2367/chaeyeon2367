@@ -44,7 +44,7 @@ Let's embark on a journey to decode the language of data together!🚀
 	<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white" />
 	<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-0891D1?style=flat&logo=Syncthing&logoColor=white" />  
+  <img src="https://img.shields.io/badge/LangChain-2563EB?style=flat&logo=Syncthing&logoColor=white" />  
 </div>
 <br>
 <div align=center>
@@ -100,6 +100,8 @@ Let's embark on a journey to decode the language of data together!🚀
 	<p>📍Certifications📍</p>
 </div>
 <div align=center>
+	<img src="https://img.shields.io/badge/DeepLearning.AI-E84D3D?style=flat&logo=freelancermap&logoColor=white"/> Certification in Generative AI with Large Language Models
+	<br>
 	<img src="https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=Udemy&logoColor=white"/> Certification in Developing LLM-Powered Applications with Lang Chain
 	<br>
 	<img src="https://img.shields.io/badge/IBM-052FAD?style=flat&logo=IBM&logoColor=white" /> IBM Data Engineering Professional Certificate
