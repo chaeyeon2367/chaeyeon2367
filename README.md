@@ -58,7 +58,7 @@ Let's embark on a journey to decode the language of data together!🚀
 	<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/Google%20Cloud%20Composer-4285F4?style=flat&logo=Google Cloud Composer&logoColor=white" />
-	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
+	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" />
   	<img src="https://img.shields.io/badge/Microsoft Excel-217346?style=flat&logo=MicrosoftExcel&logoColor=white" />
 	<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
   	<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=GNU Bash&logoColor=white" />
